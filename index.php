@@ -8,13 +8,16 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
     </head>
     <body id="home">
+        <div class="content row">
+            <?php include "php/header.php";?>
+        </div> <!-- header -->
         <section class="container">
             <div class="content row">
                 <section class="main col col-lg-8">
-
+                    <?php include "php/main.php";?>
                 </section> <!-- main -->
                 <section class="sidebar col col-lg-4">
-
+                    <?php include "php/sidebar.php";?>
                 </section> <!-- sidebar -->
             </div> <!-- content -->
         </section> <!-- container -->
