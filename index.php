@@ -22,6 +22,7 @@
                     </div>
                 </section> <!-- main -->
                 <section class="sidebar col col-lg-4">
+                    <h2 class="text-center">Hi I am Shalhavit</h2>
                     <?php include "php/sidebar.php";?>
                 </section> <!-- sidebar -->
             </div> <!-- content -->
