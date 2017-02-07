@@ -18,13 +18,7 @@
                         <?php include "php/main.php";?>
                     </div>
                     <div class="row">
-                        <?php
-                        $file= "php/quotes.txt";
-                        $quotes = file($file);
-                        srand((double)microtime()*1000000);
-                        $randomquote = rand(0, count($quotes)-1);
-                        echo $quotes[$randomquote];
-                        ?>
+                        <?php include "php/qgenerator.php";?>
                     </div>
                 </section> <!-- main -->
                 <section class="sidebar col col-lg-4">
