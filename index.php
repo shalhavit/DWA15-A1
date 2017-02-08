@@ -12,7 +12,7 @@
             <?php include "php/header.php";?>
         </div> <!-- header -->
         <section class="container">
-            <h2>About me</h2>
+            <h2>About me Part 2</h2>
             <div class="content row">
                 <section class="main col col-lg-8">
                     <div class="row">
