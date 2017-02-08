@@ -6,6 +6,6 @@
         <p class="epadding">
             A fun fact about her: Shalhavit was the 2011 Miss Fitness of Israel, and has much knowledge in the world of physical health and nutrition. She believes psychology is not only neck and up, and not everything is in our heads but our bodies as well!
         </p>
-        <h2>Random Quote</h2>
+        <h2 class="epadding">Random Quote</h2>
     </div>
 </div>
